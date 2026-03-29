@@ -52,7 +52,11 @@ Importance of safe online practices and preventive measures.
 
 ## References
 Canva: https://www.canva.com
+
 HackerRank: https://hackerrank.com
+
 Google Forms: https://forms.google.com
+
 LinkedIn, GitHub, Kaggle official sites
+
 National Cyber Crime Portal: https://cybercrime.gov.in
