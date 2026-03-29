@@ -1,5 +1,5 @@
 # Digital-literacy-project
-## Project Structure
+##Project Structure
 report/
 │── Project_Report.pdf
 
@@ -22,10 +22,11 @@ task-5-cybercrime/
 │── Case study
 │── Prevention checklist
 
-Overview
+#Overview
 This project explores digital literacy applications like professional online presence, coding practice, and safe digital habits. It includes practical tasks such as p UPI Fraud case studies, portfolio creation, coding challenges, email etiquette, and preventive checklists. The project builds a strong fundamental knowledge and experiencein digital literacy.
 
-Task Summaries
+#Task Summaries
+
 Task 1: Canva Infographic
 Created an interactive infographic on digital literacy.
 Includes link to my Canva infographic and a brief description.
@@ -41,12 +42,15 @@ Developed an social etiquette checklist to promote effective digital communicati
 Task 5: Cybercrime Awareness
 UPI Fraud case study detailing attacks and prevention.
 “Stay Safe Online” prevention checklist tailored for students.
-Key Learnings
+
+
+##Key Learnings
 Understanding digital literacy tools and its applications.
 Developing professional online presence on LinkedIn, GitHub, and Kaggle.
 Hands-on experience with coding, forms, and digital communication.
 Importance of safe online practices and preventive measures.
-References
+
+##References
 Canva: https://www.canva.com
 HackerRank: https://hackerrank.com
 Google Forms: https://forms.google.com
